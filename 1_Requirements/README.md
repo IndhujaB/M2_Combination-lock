@@ -13,6 +13,8 @@ Often times, we need to secure a room at our home or office (perhaps a secret de
 
 ATmega328P is a 8-bitAVRRISC-based microcontroller combines 32 KB ISPflash memory with read-while-write capabilities, 1 KB EEPROM,2 KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART.
 
+## PASSWORD: 5030.
+
 
 ## BENEFITS:
 
