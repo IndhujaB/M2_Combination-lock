@@ -15,6 +15,20 @@ ATmega328P is a 8-bitAVRRISC-based microcontroller combines 32 KB ISPflash memor
 
 ## PASSWORD: 5030.
 
+## COMPONENTS:
+
+* Atmega328.
+
+* Positional Micro Servo.
+
+* Red LED.
+
+* Green LED.
+
+* 1 kΩ Resistor.
+
+* Keypad.
+
 
 ## BENEFITS:
 
@@ -56,19 +70,6 @@ ATmega328P is a 8-bitAVRRISC-based microcontroller combines 32 KB ISPflash memor
 
 
 
-## COMPONENTS:
-
-* Atmega328.
-
-* Positional Micro Servo.
-
-* Red LED.
-
-* Green LED.
-
-* 1 kΩ Resistor.
-
-* Keypad.
 
 
 
