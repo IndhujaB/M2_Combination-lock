@@ -43,6 +43,11 @@ A servomotor (or servo motor) is a rotary actuator or linear actuator that allow
 A voltage source is a two-terminal device which can maintain a fixed voltage. An ideal voltage source can maintain the fixed voltage independent of the load resistance or the output current. However, a real-world voltage source cannot supply unlimited current. A voltage source is the dual of a current source
 
 
+## LED:
+
+A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons.
+
+
 ## PASSWORD: 5030.
 
 ## BENEFITS:
