@@ -90,6 +90,11 @@ A light-emitting diode (LED) is a semiconductor light source that emits light wh
 * Combination locks are becoming popular in industry and many companies are using them to protect their valuables. 
 
 
+## CONCLUSION:
+
+As the technology is going on developing day by day, we prefer things to be done automatically and in the same way our projects reduces the work to mankind.In this project, we tried to design a simple Smart Lock with secure and encrypted interactions with valid users. We used Atmel products (ATMEGA328) to emulate the lock hardware.This simple project simulates the real Smart Locks performances and their functionalities. We also gave an overview of the current state of Smart Locks.
+
+
 
 
 
