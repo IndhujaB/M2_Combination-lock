@@ -106,6 +106,25 @@ A light-emitting diode (LED) is a semiconductor light source that emits light wh
 |LLR3|KEYPADS INTERFACING WITH ATMEGA328|IMPLEMENTED|
 
 
+## SWOT ANALYSIS:
+
+## STRENGTH:
+
+Smart device is feature that satisfys the pedple expectations and lead to positive OCR's
+
+## WEAKNESS:
+
+Qualities and identities of the smart product that lack satisfaction among customers.
+
+## OPPORTUNITIES:
+
+Potential changes that the gadgets can adopt enhance reputation.
+
+## THREATS:
+
+Difficulties that the product faces due to competitors to conduct with varying WiFi.
+
+
 ## CONCLUSION:
 
 As the technology is going on developing day by day, we prefer things to be done automatically and in the same way our projects reduces the work to mankind.In this project, we tried to design a simple Smart Lock with secure and encrypted interactions with valid users. We used Atmel products (ATMEGA328) to emulate the lock hardware.This simple project simulates the real Smart Locks performances and their functionalities. We also gave an overview of the current state of Smart Locks.
