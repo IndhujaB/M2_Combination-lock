@@ -14,6 +14,9 @@
 # Build on Linux
 [![Build-Linux](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Build%20on%20linux.yml)
 
+# Git Inspector
+[![Git Inspector](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Git%20inspector.yml/badge.svg)](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Git%20inspector.yml)
+
 # In Action
 
 # OFF MODE
