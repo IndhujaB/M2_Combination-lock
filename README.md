@@ -11,6 +11,9 @@
 # Cppcheck Analysis
 [![Cppcheck Analysis](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Cppcheck_analysis.yml)
 
+# Build on Linux
+[![Build-Linux](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Build%20on%20linux.yml)
+
 # In Action
 
 # OFF MODE
