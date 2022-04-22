@@ -21,7 +21,7 @@
 [![Valgrind](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/valgrind.yml/badge.svg)](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/valgrind.yml)
 
 # Unit Testing
-
+[![Unit Testing](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Unit%20Testing.yml/badge.svg)](https://github.com/IndhujaB/M2_Combination-lock/actions/workflows/Unit%20Testing.yml)
 
 # In Action
 
