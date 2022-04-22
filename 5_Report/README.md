@@ -95,6 +95,22 @@ A light-emitting diode (LED) is a semiconductor light source that emits light wh
 As the technology is going on developing day by day, we prefer things to be done automatically and in the same way our projects reduces the work to mankind.In this project, we tried to design a simple Smart Lock with secure and encrypted interactions with valid users. We used Atmel products (ATMEGA328) to emulate the lock hardware.This simple project simulates the real Smart Locks performances and their functionalities. We also gave an overview of the current state of Smart Locks.
 
 
+## HIGH LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|LRD INTERFACING|IMPLEMENTED|
+|HLR2|SERVO MOTOR INTERFCING|IMPLEMENTED|
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|ATMEGA INTERFACING WITH SERVO MOTOR|IMPLEMENTED|
+|LLR2|SERVO MOTOR INTERFACING WITH LEDS|IMPLEMENTED|
+|LLR3|KEYPADS INTERFACING WITH ATMEGA328|IMPLEMENTED|
+
+
 
 
 
