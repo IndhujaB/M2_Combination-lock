@@ -94,7 +94,7 @@ A light-emitting diode (LED) is a semiconductor light source that emits light wh
 
 |RID|DESCRIPTION|STATUS|
 |:--|:----------|:-----|
-|HLR1|LRD INTERFACING|IMPLEMENTED|
+|HLR1|ATMEGA INTERFACING|IMPLEMENTED|
 |HLR2|SERVO MOTOR INTERFCING|IMPLEMENTED|
 
 ## LOW LEVEL REQUIREMENTS:
